@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "timeZone": "America/Chicago",
+  "periodStart": "2026-10-07",
+  "periodEnd": "2026-10-20",
+  "sourceStatus": "Published",
+  "sourceCheckedDate": "2026-10-08",
+  "availableDates": [
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11",
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-17",
+    "2026-10-18"
+  ]
+}
